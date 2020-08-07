@@ -1,4 +1,15 @@
-### Hi there 👋
+
+👨‍💻‍平平无奇的移动客户端开发者
+
+📱互联网产品的强迫症重度患者
+
+📷乱拍🎨瞎画🎸随便弹🏀偶尔打
+
+🚗坐标武汉，下一站广州
+
+🐱正在为了养猫努力学习
+
+💪离减肥成功还差一点点
 
 <!--
 **RimsonLiu/RimsonLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
