@@ -1,11 +1,9 @@
 # Hello World 👋
-👨‍💻‍平平无奇的移动开发者
+平平无奇的移动开发者，爱好拍照、吉他、篮球、猫咪，还有美食，但一直在减肥。
 
-📷乱拍 🎨瞎画 🎸偶尔弹
+喜欢关注各种新鲜事物，啥都做过一点，现在更喜欢 iOS、产品、交互，对未来充满迷茫和好奇。
 
-🐱正在为了毕业养猫努力
-
-💪离减肥成功还差一点点
+脾气暴躁，经常吐槽，偶尔亚撒西，目标是 always care enough，希望能在互联网领域坚持做正确的事🤔
 
 <!--
 **RimsonLiu/RimsonLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
